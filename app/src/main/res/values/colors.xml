@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F4EFE3</color>
+    <color name="colorPrimaryDark">#F4EFE3</color>
+    <color name="colorAccent">#A4C6A1</color>
+    <color name="colorBackground">#F4EFE3</color>
+
+    <color name="pearlWhite">#F4EFE3</color>
+    <color name="limaGreen">#A4C6A1</color>
+    <color name="darkGreen">#6F876D</color>
+    <color name="darkGold">#876718</color>
+    <color name="darkestGold">#5B4B49</color>
+    <color name="lightPink">#D1B1CB</color>
+</resources>
